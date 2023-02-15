@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers;
+namespace Slowlyo\DcatAmis\Renderers;
 
 /**
  * <b>Images 图片集</b><br/>

@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers;
+namespace Slowlyo\DcatAmis\Renderers;
 
 /**
  * <b>Avatar 头像</b><br/>

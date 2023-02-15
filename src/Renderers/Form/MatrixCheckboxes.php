@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers\Form;
+namespace Slowlyo\DcatAmis\Renderers\Form;
 
 /**
  * <b>MatrixCheckboxes 矩阵</b><br/>

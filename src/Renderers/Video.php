@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers;
+namespace Slowlyo\DcatAmis\Renderers;
 
 /**
  * <b>Video 视频</b><br/>

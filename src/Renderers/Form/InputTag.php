@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers\Form;
+namespace Slowlyo\DcatAmis\Renderers\Form;
 
 /**
  * <b>InputTag 标签选择器</b><br/>

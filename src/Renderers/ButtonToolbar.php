@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers;
+namespace Slowlyo\DcatAmis\Renderers;
 
 /**
  * <b>Button-Toolbar 按钮工具栏</b><br/>

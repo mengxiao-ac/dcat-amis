@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers;
+namespace Slowlyo\DcatAmis\Renderers;
 
 /**
  * <b>Wrapper 包裹容器</b><br/>

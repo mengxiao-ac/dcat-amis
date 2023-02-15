@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers\Form;
+namespace Slowlyo\DcatAmis\Renderers\Form;
 
 /**
  * <b>InputColor 颜色选择器</b><br/>

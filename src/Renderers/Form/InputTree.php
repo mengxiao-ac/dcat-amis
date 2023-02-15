@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers\Form;
+namespace Slowlyo\DcatAmis\Renderers\Form;
 
 /**
  * <b>InputTree 树形选择框</b><br/>

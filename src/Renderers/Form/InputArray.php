@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers\Form;
+namespace Slowlyo\DcatAmis\Renderers\Form;
 
 /**
  * <b>InputArray 数组输入框</b><br/>

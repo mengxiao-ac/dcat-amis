@@ -1,6 +1,6 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis;
+namespace Slowlyo\DcatAmis;
 
 use Dcat\Admin\Admin;
 
@@ -26,7 +26,7 @@ class DcatAmis
 
     private static function getFullPath($assets)
     {
-        $baseStaticPath = 'vendor/dcat-admin-extensions/MengxiaoAc/dcat-amis/static/';
+        $baseStaticPath = 'vendor/dcat-admin-extensions/slowlyo/dcat-amis/static/';
 
         foreach ($assets as $k => $v) {
             $assets[$k] = $baseStaticPath . $v;

@@ -1,10 +1,10 @@
 {
-    "name": "mengxiao-ac/dcat-amis",
+    "name": "slowlyo/dcat-amis",
     "alias": "",
     "description": "Amis组件库, 在Dcat中使用Amis组件",
     "type": "library",
     "keywords": ["dcat-admin", "extension", "dcat-amis", "amis"],
-    "homepage": "https://github.com/mengxiao-ac/dcat-amis",
+    "homepage": "https://github.com/slowlyo/dcat-amis",
     "license": "MIT",
     "authors": [
         {
@@ -18,17 +18,17 @@
     },
     "autoload": {
         "psr-4": {
-            "MengxiaoAc\\DcatAmis\\": "src/"
+            "Slowlyo\\DcatAmis\\": "src/"
         },
         "files": [
             "src/helpers.php"
         ]
     },
     "extra": {
-        "dcat-admin": "MengxiaoAc\\DcatAmis\\DcatAmisServiceProvider",
+        "dcat-admin": "Slowlyo\\DcatAmis\\DcatAmisServiceProvider",
         "laravel": {
             "providers": [
-                "MengxiaoAc\\DcatAmis\\DcatAmisServiceProvider"
+                "Slowlyo\\DcatAmis\\DcatAmisServiceProvider"
             ]
         }
     }

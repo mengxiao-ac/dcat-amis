@@ -1,8 +1,8 @@
 <?php
 
-namespace MengxiaoAc\DcatAmis\Renderers\Form;
+namespace Slowlyo\DcatAmis\Renderers\Form;
 
-use MengxiaoAc\DcatAmis\Renderers\BaseRenderer;
+use Slowlyo\DcatAmis\Renderers\BaseRenderer;
 
 /**
  * <b>Input-Group 输入框组合</b><br/>
